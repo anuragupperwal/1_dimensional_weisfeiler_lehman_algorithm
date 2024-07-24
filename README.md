@@ -1,4 +1,4 @@
-# 1-Dimensional Weisfeiler Lehman algorithm implementation
+# 1-Dimensional Weisfeiler Lehman Algorithm Implementation
 
 ### From the paper: THE K-DIMENSIONAL WEISFEILER-LEMAN ALGORITHM
 
